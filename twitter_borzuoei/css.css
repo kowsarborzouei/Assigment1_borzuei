@@ -1,0 +1,70 @@
+.avatar_image{
+    width: 50px;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin: 5px ;
+}
+.name_avatar{
+    color: aliceblue;
+    text-align: center;
+    font-weight: 700;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.username_avatar{
+    color: aliceblue;
+    text-align: center;
+    color: #6C7D8C ;
+    font-family: sans-serif;
+}
+.display-icons{
+    width:85px;
+}
+.material-icons{
+    width: 30px;
+    color: #6C7D8C ;
+    position:absolute;
+    right: 0px;
+    margin-top: -20px
+}
+.font{
+    font-family:  sans-serif;
+    font-weight: 400;
+}
+.heart{
+    color: #D92365;
+    font-size: 26px;
+    margin-top: -2px;
+
+}
+.upload{
+    color: #6C7D8C;
+}
+.main_div{
+    background-color: #16202A ;
+    width: 450px;
+    margin:auto;
+    padding: 3px 15px 10px 15px
+}
+.div_name_username_pictur{
+    display: flex ;
+    align-items: center;
+    position: relative
+}
+.div_name_username{
+    padding: 10px;
+    line-height: 23px
+}
+.div_h2{
+    color: #D9DADE ;
+    margin-top: 6px;
+    font-size: 23px;
+    font-family:  sans-serif;
+    font-weight: 400;
+}
+.div_p{
+    color: #6C7D8C ;
+    font-size: 17px;
+    font-family:  sans-serif;
+    font-weight: 400;
+}
